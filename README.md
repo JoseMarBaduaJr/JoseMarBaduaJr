@@ -7,7 +7,7 @@ I am Jose Mar C. Badua Jr., with a flair for coding and database management skil
 ## Education
 **BS Information Technology**  
 New Era University  
-2021 – Present
+2024 – Present
 
 ## Certifications
 - https://www.mindluster.com/student/certificate/31c26efa
