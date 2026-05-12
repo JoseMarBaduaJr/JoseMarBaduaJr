@@ -23,5 +23,4 @@ New Era University
 **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Connect with Me
-- LinkedIn: https://www.linkedin.com/in/juandelacruz
 - Email: baduajr282005@gmail.com
