@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Jose Mar C. Badua Jr. 👋</h1>
+<h1 align="center">Hi, I'm Jose Mar C. Badua Jr. 🖕🏿![Uploading image.png…]()
+</h1>
 
 ## About Me
 I am Jose Mar C. Badua Jr., with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
@@ -9,10 +10,13 @@ New Era University
 2021 – Present
 
 ## Certifications
-- [NoSQL and DBaaS 101](https://learn.oracle.com/ols/course/nosql-dbaas)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/)
-
+- https://www.mindluster.com/student/certificate/31c26efa
+- https://www.mindluster.com/student/certificate/74478e0d
+- https://www.mindluster.com/student/certificate/f377f8e9
+- https://www.mindluster.com/student/certificate/54859fe4
+- https://www.mindluster.com/student/certificate/b913d44e
+- https://www.mindluster.com/student/certificate/6487065d
+  
 ## Skill Sets
 **Programming:** Java, JavaScript  
 **Databases:** IBM DB2 Cloud  
@@ -21,6 +25,3 @@ New Era University
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/juandelacruz
 - Email: baduajr282005@gmail.com
-
-## My Photo
-<img src="https://raw.githubusercontent.com/JuanDelaCruz/JuanDelaCruz/main/profile.jpg" width="200"/>
