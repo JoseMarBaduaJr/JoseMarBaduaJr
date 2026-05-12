@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Juan Dela Cruz 👋</h1>
+<h1 align="center">Hi, I'm Jose Mar C. Badua Jr. 👋</h1>
 
 ## About Me
-I am Juan Dela Cruz, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
+I am Jose Mar C. Badua Jr., with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
 
 ## Education
 **BS Information Technology**  
@@ -20,7 +20,7 @@ New Era University
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/juandelacruz
-- Email: juandelacruz@gmail.com
+- Email: baduajr282005@gmail.com
 
 ## My Photo
 <img src="https://raw.githubusercontent.com/JuanDelaCruz/JuanDelaCruz/main/profile.jpg" width="200"/>
