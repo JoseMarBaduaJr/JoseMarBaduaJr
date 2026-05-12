@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Juan Dela Cruz 👋</h1>
 
-<!--
-**JoseMarBaduaJr/JoseMarBaduaJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am Juan Dela Cruz, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
 
-Here are some ideas to get you started:
+## Education
+**BS Information Technology**  
+New Era University  
+2021 – Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- [NoSQL and DBaaS 101](https://learn.oracle.com/ols/course/nosql-dbaas)
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/)
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/)
+
+## Skill Sets
+**Programming:** Java, JavaScript  
+**Databases:** IBM DB2 Cloud  
+**Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/juandelacruz
+- Email: juandelacruz@gmail.com
+
+## My Photo
+<img src="https://raw.githubusercontent.com/JuanDelaCruz/JuanDelaCruz/main/profile.jpg" width="200"/>
