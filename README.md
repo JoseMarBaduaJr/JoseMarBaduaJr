@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jose Mar C. Badua Jr. 🖕🏿![Uploading image.png…]()
+<h1 align="center">Hi, I'm Jose Mar C. Badua Jr. 🖕🏿!()
 </h1>
 
 ## About Me
